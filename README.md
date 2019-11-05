@@ -1,4 +1,4 @@
-# node-ses-any-promise
+# [DEPRECATED] node-ses-any-promise
 
 This is a fork of [node-ses](https://github.com/aheckmann/node-ses) with [any-promise](https://github.com/kevinbeaty/any-promise) support. No feature is added or removed.
 
